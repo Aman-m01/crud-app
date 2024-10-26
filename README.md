@@ -3,7 +3,7 @@
 ## steps to run the project locally 
 1. Clone the repository 
    ```bash
-   git clone 
+   git clone https://github.com/Aman-m01/crud-app.git
    ```
 2. Navigate to the project directory
     ```bash
